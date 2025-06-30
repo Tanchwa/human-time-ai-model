@@ -5,7 +5,7 @@ This code will serve a fine tuned LLM based on Meta's Llama 3 Model, and transla
 
 ## Methodology
 the /utils directory has a python script to auto generate the training data used to fine tune the model. 
-I started with [Meta's Llama 3 8B Param Model](https://huggingface.co/meta-llama/Meta-Llama-3-8B)
+I started with [Meta's Llama 3.1 8B Param Model](https://huggingface.co/meta-llama/Meta-Llama-3.1-8B)
 
 ## Use
 Download the Docker Image from ...
