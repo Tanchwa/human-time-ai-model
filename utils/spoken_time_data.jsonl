@@ -1,0 +1,323 @@
+{"input": "Take a break for half an hour", "output": "0.50"}
+{"input": "Clean for an hour", "output": "1.00"}
+{"input": "Walk the dog for an hour and a half", "output": "1.50"}
+{"input": "Walk the dog by Tuesday at 5pm for a quarter hour", "output": "0.25"}
+{"input": "Read for three quarters of an hour", "output": "0.75"}
+{"input": "Cook for one and a quarter hours", "output": "1.25"}
+{"input": "Take a break for two and a quarter hours", "output": "2.25"}
+{"input": "Write code before tomorrow for one and three quarters hours", "output": "1.75"}
+{"input": "Shop for two and a half hours", "output": "2.50"}
+{"input": "Clean the house by Wednesday for 2.75 hour", "output": "2.75"}
+{"input": "Shop for 225 mins", "output": "3.75"}
+{"input": "Cook for a total of 160 minutes", "output": "2.67"}
+{"input": "Shop for 0 hour and 15 minutes", "output": "0.25"}
+{"input": "Read for just over 210 minutes", "output": "3.50"}
+{"input": "Walk the dog by Tuesday at 5pm for 225 mins", "output": "3.75"}
+{"input": "Clean the house by Wednesday for 0 hour and 15 minutes", "output": "0.25"}
+{"input": "Walk the dog by Tuesday at 5pm for 0.25 hour", "output": "0.25"}
+{"input": "Cook for 80 minutes", "output": "1.33"}
+{"input": "Clean the house by Wednesday for around 5.0 hours", "output": "5.00"}
+{"input": "Walk the dog by Tuesday at 5pm for 4 hours and 30 minutes", "output": "4.50"}
+{"input": "Walk the dog by Tuesday at 5pm for just over 230 minutes", "output": "3.83"}
+{"input": "Clean the house by Wednesday for 4 hour and 0 minutes", "output": "4.00"}
+{"input": "Cook for 0 hours and 20 minutes", "output": "0.33"}
+{"input": "Walk the dog by Tuesday at 5pm for 195 minutes", "output": "3.25"}
+{"input": "Walk the dog for just over 290 minutes", "output": "4.83"}
+{"input": "Cook for 0.67 hour", "output": "0.67"}
+{"input": "Clean for 280 mins", "output": "4.67"}
+{"input": "Meditate for 1.75 hours", "output": "1.75"}
+{"input": "Walk the dog by Tuesday at 5pm for 2 hours and 40 minutes", "output": "2.67"}
+{"input": "Write code before tomorrow for 280 mins", "output": "4.67"}
+{"input": "Cook for 3 hours and 20 minutes", "output": "3.33"}
+{"input": "Walk the dog for 4 hours and 0 minutes", "output": "4.00"}
+{"input": "Clean the house by Wednesday for a total of 230 minutes", "output": "3.83"}
+{"input": "Take a break for roughly 4 hours and 20 minutes", "output": "4.33"}
+{"input": "Plan for roughly 2 hours and 40 minutes", "output": "2.67"}
+{"input": "Walk the dog by Tuesday at 5pm for 1 hours and 30 minutes", "output": "1.50"}
+{"input": "Exercise by the end of the day for about 200 minutes", "output": "3.33"}
+{"input": "Plan for 10 mins", "output": "0.17"}
+{"input": "Clean for roughly 0 hours and 20 minutes", "output": "0.33"}
+{"input": "Meditate for around 2.25 hours", "output": "2.25"}
+{"input": "Clean the house by Wednesday for 255 mins", "output": "4.25"}
+{"input": "Read for 3 hour and 50 minutes", "output": "3.83"}
+{"input": "Shop for a total of 10 minutes", "output": "0.17"}
+{"input": "Plan for 2 hour and 50 minutes", "output": "2.83"}
+{"input": "Walk the dog for 1.25 hour", "output": "1.25"}
+{"input": "Study for 120 minutes", "output": "2.00"}
+{"input": "Exercise by the end of the day for roughly 4 hours and 30 minutes", "output": "4.50"}
+{"input": "Take a break for just over 285 minutes", "output": "4.75"}
+{"input": "Take a break for just over 20 minutes", "output": "0.33"}
+{"input": "Clean for 2.5 hours", "output": "2.50"}
+{"input": "Write code before tomorrow for 1 hour and 15 minutes", "output": "1.25"}
+{"input": "Cook for 4 hours and 20 minutes", "output": "4.33"}
+{"input": "Write code before tomorrow for around 3.5 hours", "output": "3.50"}
+{"input": "Shop for 255 minutes", "output": "4.25"}
+{"input": "Meditate for 1 hours and 40 minutes", "output": "1.67"}
+{"input": "Clean the house by Wednesday for around 1.83 hours", "output": "1.83"}
+{"input": "Cook for roughly 0 hours and 20 minutes", "output": "0.33"}
+{"input": "Meditate for a total of 170 minutes", "output": "2.83"}
+{"input": "Exercise by the end of the day for 3 hours and 50 minutes", "output": "3.83"}
+{"input": "Walk the dog for around 1.0 hours", "output": "1.00"}
+{"input": "Study for 90 mins", "output": "1.50"}
+{"input": "Walk the dog for around 4.5 hours", "output": "4.50"}
+{"input": "Read for 50 mins", "output": "0.83"}
+{"input": "Clean the house by Wednesday for 2 hour and 10 minutes", "output": "2.17"}
+{"input": "Take a break for 160 mins", "output": "2.67"}
+{"input": "Cook for about 20 minutes", "output": "0.33"}
+{"input": "Clean for 4.17 hour", "output": "4.17"}
+{"input": "Cook for 0 hours and 45 minutes", "output": "0.75"}
+{"input": "Study for about 240 minutes", "output": "4.00"}
+{"input": "Read for around 2.5 hours", "output": "2.50"}
+{"input": "Study for 75 mins", "output": "1.25"}
+{"input": "Shop for 0.75 hours", "output": "0.75"}
+{"input": "Exercise by the end of the day for 3.25 hour", "output": "3.25"}
+{"input": "Take a break for 230 minutes", "output": "3.83"}
+{"input": "Cook for 2 hours and 15 minutes", "output": "2.25"}
+{"input": "Clean the house by Wednesday for just over 210 minutes", "output": "3.50"}
+{"input": "Read for 3.67 hours", "output": "3.67"}
+{"input": "Study for 1.67 hours", "output": "1.67"}
+{"input": "Cook for 0 hour and 45 minutes", "output": "0.75"}
+{"input": "Shop for 2.5 hours", "output": "2.50"}
+{"input": "Clean the house by Wednesday for a total of 255 minutes", "output": "4.25"}
+{"input": "Plan for just over 255 minutes", "output": "4.25"}
+{"input": "Plan for around 4.25 hours", "output": "4.25"}
+{"input": "Write code before tomorrow for about 270 minutes", "output": "4.50"}
+{"input": "Write code before tomorrow for 3.5 hour", "output": "3.50"}
+{"input": "Read for 1 hour and 15 minutes", "output": "1.25"}
+{"input": "Take a break for 4 hour and 0 minutes", "output": "4.00"}
+{"input": "Write code before tomorrow for just over 255 minutes", "output": "4.25"}
+{"input": "Walk the dog by Tuesday at 5pm for 5 hours and 0 minutes", "output": "5.00"}
+{"input": "Walk the dog by Tuesday at 5pm for roughly 2 hours and 10 minutes", "output": "2.17"}
+{"input": "Walk the dog for 4 hours and 0 minutes", "output": "4.00"}
+{"input": "Plan for just over 10 minutes", "output": "0.17"}
+{"input": "Meditate for 2 hours and 0 minutes", "output": "2.00"}
+{"input": "Write code before tomorrow for 210 minutes", "output": "3.50"}
+{"input": "Shop for around 1.33 hours", "output": "1.33"}
+{"input": "Walk the dog for 170 minutes", "output": "2.83"}
+{"input": "Write code before tomorrow for a total of 200 minutes", "output": "3.33"}
+{"input": "Clean the house by Wednesday for 3.25 hours", "output": "3.25"}
+{"input": "Clean for 4 hours and 45 minutes", "output": "4.75"}
+{"input": "Write code before tomorrow for 0 hours and 30 minutes", "output": "0.50"}
+{"input": "Exercise by the end of the day for around 1.25 hours", "output": "1.25"}
+{"input": "Shop for 140 mins", "output": "2.33"}
+{"input": "Shop for 3.25 hours", "output": "3.25"}
+{"input": "Exercise by the end of the day for around 4.0 hours", "output": "4.00"}
+{"input": "Take a break for 3 hour and 40 minutes", "output": "3.67"}
+{"input": "Meditate for 260 mins", "output": "4.33"}
+{"input": "Clean for about 210 minutes", "output": "3.50"}
+{"input": "Cook for 45 mins", "output": "0.75"}
+{"input": "Read for around 3.83 hours", "output": "3.83"}
+{"input": "Write code before tomorrow for around 1.67 hours", "output": "1.67"}
+{"input": "Walk the dog by Tuesday at 5pm for 270 minutes", "output": "4.50"}
+{"input": "Shop for 2.75 hours", "output": "2.75"}
+{"input": "Take a break for 3 hour and 20 minutes", "output": "3.33"}
+{"input": "Clean the house by Wednesday for 165 mins", "output": "2.75"}
+{"input": "Read for around 2.5 hours", "output": "2.50"}
+{"input": "Clean for 4 hours and 45 minutes", "output": "4.75"}
+{"input": "Write code before tomorrow for about 105 minutes", "output": "1.75"}
+{"input": "Study for a total of 260 minutes", "output": "4.33"}
+{"input": "Study for 80 minutes", "output": "1.33"}
+{"input": "Clean for 1 hours and 50 minutes", "output": "1.83"}
+{"input": "Cook for 290 mins", "output": "4.83"}
+{"input": "Shop for 3 hours and 50 minutes", "output": "3.83"}
+{"input": "Meditate for just over 165 minutes", "output": "2.75"}
+{"input": "Meditate for around 1.5 hours", "output": "1.50"}
+{"input": "Study for 1 hour and 0 minutes", "output": "1.00"}
+{"input": "Cook for around 3.33 hours", "output": "3.33"}
+{"input": "Plan for a total of 130 minutes", "output": "2.17"}
+{"input": "Study for about 230 minutes", "output": "3.83"}
+{"input": "Exercise by the end of the day for roughly 2 hours and 15 minutes", "output": "2.25"}
+{"input": "Write code before tomorrow for around 4.67 hours", "output": "4.67"}
+{"input": "Exercise by the end of the day for 1.67 hours", "output": "1.67"}
+{"input": "Study for 20 mins", "output": "0.33"}
+{"input": "Shop for 4 hours and 40 minutes", "output": "4.67"}
+{"input": "Plan for a total of 135 minutes", "output": "2.25"}
+{"input": "Study for 0.83 hours", "output": "0.83"}
+{"input": "Read for a total of 170 minutes", "output": "2.83"}
+{"input": "Study for 2.33 hours", "output": "2.33"}
+{"input": "Shop for around 3.17 hours", "output": "3.17"}
+{"input": "Study for around 1.25 hours", "output": "1.25"}
+{"input": "Take a break for 3.67 hours", "output": "3.67"}
+{"input": "Exercise by the end of the day for a total of 20 minutes", "output": "0.33"}
+{"input": "Clean the house by Wednesday for 4 hours and 10 minutes", "output": "4.17"}
+{"input": "Walk the dog for a total of 260 minutes", "output": "4.33"}
+{"input": "Plan for 140 minutes", "output": "2.33"}
+{"input": "Take a break for 0.17 hour", "output": "0.17"}
+{"input": "Walk the dog by Tuesday at 5pm for 2.67 hours", "output": "2.67"}
+{"input": "Clean for 1 hours and 40 minutes", "output": "1.67"}
+{"input": "Exercise by the end of the day for 1.67 hour", "output": "1.67"}
+{"input": "Walk the dog for 4.67 hour", "output": "4.67"}
+{"input": "Take a break for 10 mins", "output": "0.17"}
+{"input": "Exercise by the end of the day for 2.67 hour", "output": "2.67"}
+{"input": "Meditate for a total of 20 minutes", "output": "0.33"}
+{"input": "Read for 4.75 hour", "output": "4.75"}
+{"input": "Walk the dog for 0.17 hours", "output": "0.17"}
+{"input": "Take a break for 2.17 hour", "output": "2.17"}
+{"input": "Clean for 5 hours and 0 minutes", "output": "5.00"}
+{"input": "Write code before tomorrow for about 160 minutes", "output": "2.67"}
+{"input": "Clean for roughly 4 hours and 20 minutes", "output": "4.33"}
+{"input": "Write code before tomorrow for a total of 150 minutes", "output": "2.50"}
+{"input": "Clean for just over 240 minutes", "output": "4.00"}
+{"input": "Meditate for just over 195 minutes", "output": "3.25"}
+{"input": "Read for 200 mins", "output": "3.33"}
+{"input": "Cook for 4 hours and 50 minutes", "output": "4.83"}
+{"input": "Write code before tomorrow for a total of 135 minutes", "output": "2.25"}
+{"input": "Meditate for 1 hour and 20 minutes", "output": "1.33"}
+{"input": "Take a break for 3.75 hours", "output": "3.75"}
+{"input": "Exercise by the end of the day for 4 hours and 20 minutes", "output": "4.33"}
+{"input": "Write code before tomorrow for 3 hours and 50 minutes", "output": "3.83"}
+{"input": "Walk the dog by Tuesday at 5pm for roughly 0 hours and 50 minutes", "output": "0.83"}
+{"input": "Take a break for around 3.67 hours", "output": "3.67"}
+{"input": "Clean for just over 160 minutes", "output": "2.67"}
+{"input": "Write code before tomorrow for 60 minutes", "output": "1.00"}
+{"input": "Walk the dog by Tuesday at 5pm for 210 mins", "output": "3.50"}
+{"input": "Write code before tomorrow for roughly 0 hours and 45 minutes", "output": "0.75"}
+{"input": "Shop for just over 140 minutes", "output": "2.33"}
+{"input": "Shop for roughly 0 hours and 30 minutes", "output": "0.50"}
+{"input": "Walk the dog by Tuesday at 5pm for 3.17 hour", "output": "3.17"}
+{"input": "Clean for 3.75 hours", "output": "3.75"}
+{"input": "Clean the house by Wednesday for about 130 minutes", "output": "2.17"}
+{"input": "Study for 1.67 hours", "output": "1.67"}
+{"input": "Clean for a total of 120 minutes", "output": "2.00"}
+{"input": "Clean for roughly 0 hours and 15 minutes", "output": "0.25"}
+{"input": "Take a break for around 4.83 hours", "output": "4.83"}
+{"input": "Study for 1 hours and 50 minutes", "output": "1.83"}
+{"input": "Walk the dog by Tuesday at 5pm for 230 mins", "output": "3.83"}
+{"input": "Study for just over 140 minutes", "output": "2.33"}
+{"input": "Read for about 200 minutes", "output": "3.33"}
+{"input": "Shop for 135 minutes", "output": "2.25"}
+{"input": "Meditate for 4 hour and 30 minutes", "output": "4.50"}
+{"input": "Plan for just over 135 minutes", "output": "2.25"}
+{"input": "Clean for 2.67 hour", "output": "2.67"}
+{"input": "Read for 190 minutes", "output": "3.17"}
+{"input": "Take a break for 1.33 hours", "output": "1.33"}
+{"input": "Clean for a total of 40 minutes", "output": "0.67"}
+{"input": "Walk the dog by Tuesday at 5pm for 160 minutes", "output": "2.67"}
+{"input": "Plan for just over 260 minutes", "output": "4.33"}
+{"input": "Meditate for roughly 3 hours and 40 minutes", "output": "3.67"}
+{"input": "Meditate for about 165 minutes", "output": "2.75"}
+{"input": "Cook for about 75 minutes", "output": "1.25"}
+{"input": "Clean the house by Wednesday for 0.17 hours", "output": "0.17"}
+{"input": "Study for 4 hours and 0 minutes", "output": "4.00"}
+{"input": "Exercise by the end of the day for around 3.83 hours", "output": "3.83"}
+{"input": "Read for 4 hours and 15 minutes", "output": "4.25"}
+{"input": "Walk the dog for 230 minutes", "output": "3.83"}
+{"input": "Study for just over 15 minutes", "output": "0.25"}
+{"input": "Clean for 0.33 hour", "output": "0.33"}
+{"input": "Cook for just over 195 minutes", "output": "3.25"}
+{"input": "Clean the house by Wednesday for 4 hours and 15 minutes", "output": "4.25"}
+{"input": "Exercise by the end of the day for 90 mins", "output": "1.50"}
+{"input": "Read for 240 minutes", "output": "4.00"}
+{"input": "Clean for around 1.83 hours", "output": "1.83"}
+{"input": "Walk the dog for 220 minutes", "output": "3.67"}
+{"input": "Clean for roughly 4 hours and 50 minutes", "output": "4.83"}
+{"input": "Clean for roughly 2 hours and 40 minutes", "output": "2.67"}
+{"input": "Read for 0 hour and 30 minutes", "output": "0.50"}
+{"input": "Clean the house by Wednesday for 1 hour and 40 minutes", "output": "1.67"}
+{"input": "Write code before tomorrow for just over 20 minutes", "output": "0.33"}
+{"input": "Clean the house by Wednesday for about 20 minutes", "output": "0.33"}
+{"input": "Shop for a total of 280 minutes", "output": "4.67"}
+{"input": "Read for just over 150 minutes", "output": "2.50"}
+{"input": "Study for 4 hours and 45 minutes", "output": "4.75"}
+{"input": "Take a break for around 5.0 hours", "output": "5.00"}
+{"input": "Meditate for 4 hours and 30 minutes", "output": "4.50"}
+{"input": "Shop for 2 hour and 30 minutes", "output": "2.50"}
+{"input": "Clean for 220 mins", "output": "3.67"}
+{"input": "Walk the dog for 250 mins", "output": "4.17"}
+{"input": "Shop for 60 minutes", "output": "1.00"}
+{"input": "Plan for just over 190 minutes", "output": "3.17"}
+{"input": "Meditate for around 3.5 hours", "output": "3.50"}
+{"input": "Study for 0 hour and 10 minutes", "output": "0.17"}
+{"input": "Study for just over 195 minutes", "output": "3.25"}
+{"input": "Clean for just over 300 minutes", "output": "5.00"}
+{"input": "Shop for 50 minutes", "output": "0.83"}
+{"input": "Clean for 4 hour and 20 minutes", "output": "4.33"}
+{"input": "Read for 150 mins", "output": "2.50"}
+{"input": "Walk the dog by Tuesday at 5pm for about 285 minutes", "output": "4.75"}
+{"input": "Exercise by the end of the day for roughly 4 hours and 40 minutes", "output": "4.67"}
+{"input": "Shop for just over 80 minutes", "output": "1.33"}
+{"input": "Exercise by the end of the day for about 75 minutes", "output": "1.25"}
+{"input": "Plan for 2 hours and 30 minutes", "output": "2.50"}
+{"input": "Study for 2.5 hour", "output": "2.50"}
+{"input": "Shop for 290 minutes", "output": "4.83"}
+{"input": "Exercise by the end of the day for roughly 2 hours and 15 minutes", "output": "2.25"}
+{"input": "Walk the dog by Tuesday at 5pm for about 100 minutes", "output": "1.67"}
+{"input": "Walk the dog by Tuesday at 5pm for 230 minutes", "output": "3.83"}
+{"input": "Walk the dog for 2 hours and 15 minutes", "output": "2.25"}
+{"input": "Clean for just over 90 minutes", "output": "1.50"}
+{"input": "Clean for about 135 minutes", "output": "2.25"}
+{"input": "Walk the dog for 50 mins", "output": "0.83"}
+{"input": "Meditate for 3.0 hour", "output": "3.00"}
+{"input": "Write code before tomorrow for a total of 255 minutes", "output": "4.25"}
+{"input": "Clean the house by Wednesday for 1.0 hour", "output": "1.00"}
+{"input": "Clean the house by Wednesday for 4 hour and 50 minutes", "output": "4.83"}
+{"input": "Study for 1.67 hours", "output": "1.67"}
+{"input": "Write code before tomorrow for 285 minutes", "output": "4.75"}
+{"input": "Clean for 210 mins", "output": "3.50"}
+{"input": "Shop for a total of 15 minutes", "output": "0.25"}
+{"input": "Cook for 100 mins", "output": "1.67"}
+{"input": "Clean the house by Wednesday for 210 minutes", "output": "3.50"}
+{"input": "Clean the house by Wednesday for just over 180 minutes", "output": "3.00"}
+{"input": "Exercise by the end of the day for 3.0 hours", "output": "3.00"}
+{"input": "Exercise by the end of the day for roughly 2 hours and 20 minutes", "output": "2.33"}
+{"input": "Study for around 3.0 hours", "output": "3.00"}
+{"input": "Walk the dog by Tuesday at 5pm for 50 mins", "output": "0.83"}
+{"input": "Meditate for 0.75 hour", "output": "0.75"}
+{"input": "Study for about 15 minutes", "output": "0.25"}
+{"input": "Clean the house by Wednesday for roughly 4 hours and 30 minutes", "output": "4.50"}
+{"input": "Meditate for just over 195 minutes", "output": "3.25"}
+{"input": "Read for 105 minutes", "output": "1.75"}
+{"input": "Read for 90 minutes", "output": "1.50"}
+{"input": "Plan for 2 hour and 0 minutes", "output": "2.00"}
+{"input": "Study for just over 50 minutes", "output": "0.83"}
+{"input": "Take a break for 70 mins", "output": "1.17"}
+{"input": "Meditate for just over 140 minutes", "output": "2.33"}
+{"input": "Shop for 165 mins", "output": "2.75"}
+{"input": "Take a break for 0.17 hour", "output": "0.17"}
+{"input": "Take a break for 0.17 hour", "output": "0.17"}
+{"input": "Shop for about 100 minutes", "output": "1.67"}
+{"input": "Meditate for about 75 minutes", "output": "1.25"}
+{"input": "Plan for a total of 80 minutes", "output": "1.33"}
+{"input": "Shop for about 300 minutes", "output": "5.00"}
+{"input": "Read for roughly 0 hours and 15 minutes", "output": "0.25"}
+{"input": "Write code before tomorrow for 220 mins", "output": "3.67"}
+{"input": "Meditate for 4 hour and 15 minutes", "output": "4.25"}
+{"input": "Meditate for 0 hours and 30 minutes", "output": "0.50"}
+{"input": "Write code before tomorrow for around 2.67 hours", "output": "2.67"}
+{"input": "Meditate for roughly 0 hours and 20 minutes", "output": "0.33"}
+{"input": "Clean for 255 mins", "output": "4.25"}
+{"input": "Clean the house by Wednesday for 4.67 hours", "output": "4.67"}
+{"input": "Clean for about 200 minutes", "output": "3.33"}
+{"input": "Take a break for 1.83 hours", "output": "1.83"}
+{"input": "Clean for 4 hours and 45 minutes", "output": "4.75"}
+{"input": "Cook for around 4.0 hours", "output": "4.00"}
+{"input": "Take a break for just over 15 minutes", "output": "0.25"}
+{"input": "Clean the house by Wednesday for 3.0 hours", "output": "3.00"}
+{"input": "Walk the dog by Tuesday at 5pm for a total of 240 minutes", "output": "4.00"}
+{"input": "Meditate for 1 hour and 20 minutes", "output": "1.33"}
+{"input": "Cook for 1 hours and 0 minutes", "output": "1.00"}
+{"input": "Walk the dog for 1 hours and 45 minutes", "output": "1.75"}
+{"input": "Walk the dog by Tuesday at 5pm for just over 10 minutes", "output": "0.17"}
+{"input": "Study for just over 290 minutes", "output": "4.83"}
+{"input": "Plan for just over 20 minutes", "output": "0.33"}
+{"input": "Shop for 2 hours and 15 minutes", "output": "2.25"}
+{"input": "Read for around 1.75 hours", "output": "1.75"}
+{"input": "Exercise by the end of the day for 3 hours and 30 minutes", "output": "3.50"}
+{"input": "Exercise by the end of the day for 1 hour and 15 minutes", "output": "1.25"}
+{"input": "Clean for about 160 minutes", "output": "2.67"}
+{"input": "Shop for 0.17 hour", "output": "0.17"}
+{"input": "Study for about 45 minutes", "output": "0.75"}
+{"input": "Just Relax for a bit", "output": "empty"}
+{"input": "Go to the gym", "output": "empty"}
+{"input": "Take a nap", "output": "empty"}
+{"input": "Read a book before tomorrow", "output": "empty"}
+{"input": "What's the weather like?", "output": "empty"}
+{"input": "My favorite color is blue", "output": "empty"}
+{"input": "Watch a movie", "output": "empty"}
+{"input": "Listen to music", "output": "empty"}
+{"input": "Go to the park before 4pm", "output": "empty"}
+{"input": "Call a friend before 3", "output": "empty"}
+{"input": "Go for a walk", "output": "empty"}
+{"input": "Meditate", "output": "empty"}
+{"input": "Do some yoga", "output": "empty"}
+{"input": "Cook a meal", "output": "empty"}
