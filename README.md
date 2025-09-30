@@ -8,5 +8,13 @@ the /utils directory has a python script to auto generate the training data used
 I started with [Google's Flan t5 small](https://huggingface.co/google/flan-t5-small)
 
 ## Use
-Download the Docker Image from ...
+### Training the Model
+clone the repo and `cd ./human-time-ai-model/utils`
+run `python3 dataset_generator.py --samples ###` to generate a dataset. By default, it will output this to a file called `spoken_time_data.jsonl` 
+run the command again with `--output spoken_time_data_validation.jsonl` to generate a validation set. 
+
+You can then use the `training.py` script to run the fine tuning.
+### Running the Model Server
+~~Download the Docker Image from ... not yet available~~
+
 This is designed to be used in conjunction with the webhook application.
