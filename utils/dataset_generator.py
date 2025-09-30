@@ -36,14 +36,17 @@ time_phrases = [
     ("a total of {} minutes", lambda m: m),
 ]
 
+tasks = ["Read", "Write code before tomorrow", "Exercise by the end of the day", "Study", "Cook", "Clean the house by Wednesday", "Clean", "Shop", "Take a break", "Meditate", "Plan", "Walk the dog by Tuesday at 5pm","Walk the dog"]
+
 def generate_dataset(num_samples=200):
     data = []
 
     # Add spoken variants
     for phrase, hours in spoken_variants.items():
+        phrase = f"{random.choice(tasks)} for {phrase}"
         data.append({
             "input": phrase,
-            "output": hours
+            "output": f"{hours:.2f}"  
         })
 
     # Generate randomly phrased durations
@@ -58,27 +61,45 @@ def generate_dataset(num_samples=200):
         if "and" in text_template:
             phrase = text_template.format(hours_part, minutes_part)
         elif "hours" in text_template or "hour" in text_template:
-            combined_hours = round(hours_part + minutes_part / 60, 1)
+            combined_hours = round(hours_part + minutes_part / 60, 2)
             phrase = text_template.format(combined_hours)
         else:
             phrase = text_template.format(total_minutes)
 
-        float_hours = round(total_minutes / 60, 4)
-
+        phrase = f"{random.choice(tasks)} for {phrase}"
+        float_hours = total_minutes / 60
         data.append({
             "input": phrase,
-            "output": float_hours
+            "output": f"{float_hours:.2f}"
         })
+
+    # Add some irrelevant phrases with "empty" output
+    data += [
+        {"input": "Just Relax for a bit", "output": "empty"},
+        {"input": "Go to the gym", "output": "empty"},
+        {"input": "Take a nap", "output": "empty"},
+        {"input": "Read a book before tomorrow", "output": "empty"},
+        {"input": "What's the weather like?", "output": "empty"},
+        {"input": "My favorite color is blue", "output": "empty"},
+        {"input": "Watch a movie", "output": "empty"},
+        {"input": "Listen to music", "output": "empty"},
+        {"input": "Go to the park before 4pm", "output": "empty"},
+        {"input": "Call a friend before 3", "output": "empty"},
+        {"input": "Go for a walk", "output": "empty"},
+        {"input": "Meditate", "output": "empty"},
+        {"input": "Do some yoga", "output": "empty"},
+        {"input": "Cook a meal", "output": "empty"},
+    ]
 
     return data
 
 def write_jsonl(data, path="spoken_time_data.jsonl"):
-    with open(path, "w") as f:
+    with open(path, "w", encoding="utf-8") as f:
         for item in data:
-            f.write(json.dumps(item) + "\n")
+            f.write(json.dumps(item, ensure_ascii=False) + "\n")
 
 def write_csv(data, path="spoken_time_data.csv"):
-    with open(path, "w", newline="") as csvfile:
+    with open(path, "w", newline="", encoding="utf-8") as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(["input", "output"])
         for item in data:
@@ -87,11 +108,12 @@ def write_csv(data, path="spoken_time_data.csv"):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate spoken time dataset")
     parser.add_argument("--samples", type=int, default=300, help="Number of random samples to generate (excluding fixed spoken phrases)")
+    parser.add_argument("--output", type=str, default="spoken_time_data.jsonl", help="Output JSONL file path")
     args = parser.parse_args()
 
     dataset = generate_dataset(args.samples)
-    write_jsonl(dataset)
-    write_csv(dataset)
+    write_jsonl(dataset, args.output)
+    write_csv(dataset, args.output.replace(".jsonl", ".csv"))
 
-    print(f"✅ Generated {len(dataset)} total examples in 'spoken_time_data.jsonl' and 'spoken_time_data.csv'")
+    print(f"✅ Generated {len(dataset)} total examples in {args.output} and {args.output.replace('.jsonl', '.csv')}")
 
