@@ -16,5 +16,6 @@ run the command again with `--output spoken_time_data_validation.jsonl` to gener
 You can then use the `training.py` script to run the fine tuning.
 ### Running the Model Server
 ~~Download the Docker Image from ... not yet available~~
+You can run a one shot of the inference model with the `test_model.py` script in utils. Pass in your prompt using the `--input "YOUR INPUT HERE"` flag.
 
 This is designed to be used in conjunction with the webhook application.
