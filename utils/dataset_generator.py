@@ -3,6 +3,7 @@ import csv
 import random
 import argparse
 
+
 # Allowed minute increments
 allowed_minutes = sorted(set(
     [i for i in range(10, 301, 10)] + [i for i in range(15, 301, 15)]
