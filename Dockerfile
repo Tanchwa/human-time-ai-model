@@ -2,7 +2,7 @@ FROM python:3.13.5-alpine AS build
 
 WORKDIR /utils
 COPY ./utils/* /utils
-RUN python3 -m pip install -r requirements.txt
+RUN python3 -m pip3 install -r requirements.txt
 
 RUN python3 training.py
 
@@ -11,7 +11,7 @@ WORKDIR /app
 COPY --from=build ./t5_small_human_time_model ./t5_small_human_time_model
 
 COPY requirements.txt .
-RUN python3 -m pip install -r requirements.text
+RUN python3 -m pip3 install -r requirements.text
 
 COPY ./utils/test_model.py /app/test_model.py
 
