@@ -1,4 +1,4 @@
-FROM python:3.13.5-alpine AS build
+FROM python:3.10.19-alpine3.21 AS build
 
 WORKDIR /utils
 COPY ./utils/* /utils
