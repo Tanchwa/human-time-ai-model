@@ -1,324 +1,333 @@
 input,output
-Clean for half an hour,0.50
-Write code before tomorrow for an hour,1.00
-Clean for an hour and a half,1.50
-Clean the house by Wednesday for a quarter hour,0.25
-Walk the dog by Tuesday at 5pm for three quarters of an hour,0.75
-Study for one and a quarter hours,1.25
-Cook for two and a quarter hours,2.25
-Clean for one and three quarters hours,1.75
-Write code before tomorrow for two and a half hours,2.50
-Clean the house by Wednesday for just over 195 minutes,3.25
-Plan for a total of 150 minutes,2.50
-Walk the dog for around 1.83 hours,1.83
-Study for 1.5 hour,1.50
-Write code before tomorrow for 0.25 hour,0.25
-Meditate for 0 hours and 15 minutes,0.25
-Clean the house by Wednesday for 1.25 hour,1.25
-Shop for 135 minutes,2.25
-Clean for about 200 minutes,3.33
-Meditate for 0 hour and 30 minutes,0.50
-Exercise by the end of the day for 250 minutes,4.17
-Walk the dog for 1.5 hour,1.50
-Exercise by the end of the day for 3.17 hours,3.17
-Exercise by the end of the day for 4.5 hour,4.50
-Study for just over 195 minutes,3.25
-Clean for 4.5 hours,4.50
-Shop for about 220 minutes,3.67
-Shop for around 0.5 hours,0.50
-Meditate for 135 mins,2.25
-Walk the dog by Tuesday at 5pm for 0 hour and 30 minutes,0.50
-Meditate for 1.17 hours,1.17
-Exercise by the end of the day for 4 hour and 15 minutes,4.25
-Clean for 3 hour and 30 minutes,3.50
-Clean for 2.33 hour,2.33
-Exercise by the end of the day for 1.17 hour,1.17
-Exercise by the end of the day for about 195 minutes,3.25
-Shop for 0 hour and 40 minutes,0.67
-Shop for 0 hour and 10 minutes,0.17
-Clean the house by Wednesday for 4.5 hours,4.50
-Meditate for about 15 minutes,0.25
-Clean for 2.83 hour,2.83
-Write code before tomorrow for 2 hours and 15 minutes,2.25
-Clean for 0 hour and 15 minutes,0.25
-Shop for 0.67 hour,0.67
-Write code before tomorrow for roughly 1 hours and 20 minutes,1.33
-Clean for just over 30 minutes,0.50
-Meditate for a total of 50 minutes,0.83
-Clean for just over 90 minutes,1.50
-Read for 2.33 hour,2.33
-Write code before tomorrow for 1 hour and 0 minutes,1.00
-Meditate for about 280 minutes,4.67
-Exercise by the end of the day for just over 200 minutes,3.33
-Study for just over 45 minutes,0.75
-Walk the dog for 0 hour and 10 minutes,0.17
-Write code before tomorrow for a total of 90 minutes,1.50
-Read for 1.17 hours,1.17
-Clean for 2.17 hour,2.17
-Write code before tomorrow for 3 hour and 50 minutes,3.83
-Cook for 75 minutes,1.25
-Exercise by the end of the day for 1.67 hours,1.67
-Walk the dog by Tuesday at 5pm for 3.83 hours,3.83
-Take a break for 0.25 hours,0.25
-Meditate for about 20 minutes,0.33
-Write code before tomorrow for just over 10 minutes,0.17
-Walk the dog by Tuesday at 5pm for around 4.17 hours,4.17
-Meditate for 4.17 hours,4.17
-Take a break for roughly 3 hours and 10 minutes,3.17
-Plan for about 165 minutes,2.75
-Walk the dog by Tuesday at 5pm for roughly 2 hours and 10 minutes,2.17
-Shop for 230 minutes,3.83
-Plan for 0.5 hours,0.50
-Walk the dog by Tuesday at 5pm for 1 hours and 45 minutes,1.75
-Exercise by the end of the day for 170 minutes,2.83
-Study for about 120 minutes,2.00
-Study for 80 minutes,1.33
-Study for 240 mins,4.00
-Clean the house by Wednesday for 15 minutes,0.25
-Cook for 0.33 hour,0.33
-Study for 230 mins,3.83
-Clean the house by Wednesday for just over 165 minutes,2.75
-Shop for 70 minutes,1.17
-Clean for 1.0 hour,1.00
-Walk the dog for 3.0 hours,3.00
-Clean the house by Wednesday for a total of 280 minutes,4.67
-Walk the dog by Tuesday at 5pm for about 110 minutes,1.83
-Take a break for 2 hour and 15 minutes,2.25
-Study for about 210 minutes,3.50
-Walk the dog for 285 minutes,4.75
-Plan for 2 hour and 15 minutes,2.25
-Clean for 195 mins,3.25
-Study for a total of 240 minutes,4.00
-Write code before tomorrow for 240 mins,4.00
-Exercise by the end of the day for about 105 minutes,1.75
-Exercise by the end of the day for about 255 minutes,4.25
-Walk the dog for 3.83 hour,3.83
-Exercise by the end of the day for 75 mins,1.25
-Write code before tomorrow for 230 mins,3.83
-Walk the dog by Tuesday at 5pm for 0.67 hours,0.67
-Clean for just over 120 minutes,2.00
-Take a break for 2 hours and 15 minutes,2.25
-Study for roughly 4 hours and 40 minutes,4.67
-Walk the dog for roughly 3 hours and 15 minutes,3.25
-Cook for 3.17 hour,3.17
-Exercise by the end of the day for around 4.17 hours,4.17
-Meditate for 1 hour and 10 minutes,1.17
-Meditate for 4 hours and 20 minutes,4.33
-Clean for 3 hours and 50 minutes,3.83
-Study for 220 minutes,3.67
-Shop for roughly 1 hours and 20 minutes,1.33
-Cook for 0 hour and 50 minutes,0.83
-Plan for 1.83 hours,1.83
-Study for 30 minutes,0.50
-Clean for 0 hours and 15 minutes,0.25
-Read for 2 hour and 20 minutes,2.33
-Read for around 5.0 hours,5.00
-Exercise by the end of the day for 1 hours and 10 minutes,1.17
-Walk the dog for 3.67 hours,3.67
-Shop for 220 mins,3.67
-Clean the house by Wednesday for roughly 0 hours and 20 minutes,0.33
-Walk the dog for roughly 3 hours and 45 minutes,3.75
-Shop for 0.17 hours,0.17
-Walk the dog for 1 hour and 30 minutes,1.50
-Read for 1 hours and 15 minutes,1.25
-Meditate for 75 mins,1.25
-Walk the dog for 20 mins,0.33
-Clean the house by Wednesday for 2.25 hour,2.25
-Plan for a total of 165 minutes,2.75
-Walk the dog for 3 hour and 0 minutes,3.00
-Plan for 4 hour and 20 minutes,4.33
-Walk the dog for a total of 135 minutes,2.25
-Write code before tomorrow for roughly 1 hours and 30 minutes,1.50
-Exercise by the end of the day for about 285 minutes,4.75
-Clean for just over 20 minutes,0.33
-Meditate for 3 hour and 45 minutes,3.75
-Read for roughly 4 hours and 20 minutes,4.33
-Exercise by the end of the day for around 3.0 hours,3.00
-Clean the house by Wednesday for roughly 3 hours and 0 minutes,3.00
-Meditate for 140 minutes,2.33
-Cook for 0.75 hours,0.75
-Shop for about 195 minutes,3.25
-Shop for about 160 minutes,2.67
-Walk the dog by Tuesday at 5pm for a total of 150 minutes,2.50
-Walk the dog by Tuesday at 5pm for 3.5 hours,3.50
-Walk the dog for 1 hour and 30 minutes,1.50
-Clean the house by Wednesday for just over 240 minutes,4.00
-Walk the dog for 210 minutes,3.50
-Study for just over 300 minutes,5.00
-Clean for a total of 260 minutes,4.33
-Shop for 180 mins,3.00
-Take a break for a total of 60 minutes,1.00
-Walk the dog for around 0.67 hours,0.67
-Clean for 2 hour and 50 minutes,2.83
-Plan for 1.5 hours,1.50
-Clean for 60 minutes,1.00
-Study for 2 hour and 50 minutes,2.83
-Shop for a total of 160 minutes,2.67
-Clean the house by Wednesday for just over 50 minutes,0.83
-Walk the dog by Tuesday at 5pm for a total of 150 minutes,2.50
-Take a break for 70 mins,1.17
-Plan for roughly 2 hours and 20 minutes,2.33
-Exercise by the end of the day for about 10 minutes,0.17
-Meditate for 45 minutes,0.75
-Walk the dog by Tuesday at 5pm for just over 300 minutes,5.00
-Exercise by the end of the day for about 225 minutes,3.75
-Clean the house by Wednesday for 250 mins,4.17
-Exercise by the end of the day for 45 minutes,0.75
-Clean the house by Wednesday for just over 100 minutes,1.67
-Walk the dog by Tuesday at 5pm for just over 230 minutes,3.83
-Meditate for a total of 20 minutes,0.33
-Write code before tomorrow for around 0.67 hours,0.67
-Take a break for 0 hour and 30 minutes,0.50
-Shop for around 2.17 hours,2.17
-Meditate for 2.83 hour,2.83
-Plan for roughly 4 hours and 10 minutes,4.17
-Meditate for 80 minutes,1.33
-Clean the house by Wednesday for roughly 2 hours and 15 minutes,2.25
-Take a break for 2.33 hour,2.33
-Clean for about 230 minutes,3.83
-Shop for about 15 minutes,0.25
-Read for 1 hours and 20 minutes,1.33
-Take a break for 3 hour and 0 minutes,3.00
-Take a break for 220 mins,3.67
-Plan for 1 hours and 40 minutes,1.67
-Clean the house by Wednesday for 1 hours and 45 minutes,1.75
-Study for 5 hours and 0 minutes,5.00
-Read for 4.33 hours,4.33
-Plan for just over 20 minutes,0.33
-Take a break for a total of 40 minutes,0.67
-Take a break for 105 mins,1.75
-Walk the dog by Tuesday at 5pm for just over 40 minutes,0.67
-Shop for just over 80 minutes,1.33
-Meditate for around 4.0 hours,4.00
-Cook for 1.17 hours,1.17
-Clean the house by Wednesday for 3.5 hour,3.50
-Meditate for just over 255 minutes,4.25
-Take a break for 50 minutes,0.83
-Study for 2.5 hour,2.50
-Study for 300 minutes,5.00
-Exercise by the end of the day for 30 minutes,0.50
-Write code before tomorrow for about 230 minutes,3.83
-Study for roughly 1 hours and 10 minutes,1.17
-Cook for around 2.17 hours,2.17
-Plan for 2.25 hours,2.25
-Plan for 45 minutes,0.75
-Clean the house by Wednesday for 190 minutes,3.17
-Plan for 20 minutes,0.33
-Take a break for about 135 minutes,2.25
-Take a break for 170 mins,2.83
-Take a break for 1.5 hours,1.50
-Cook for 1 hour and 50 minutes,1.83
-Plan for just over 170 minutes,2.83
-Cook for a total of 15 minutes,0.25
-Walk the dog by Tuesday at 5pm for just over 50 minutes,0.83
-Cook for a total of 285 minutes,4.75
-Plan for 1.33 hour,1.33
-Clean for 2.67 hour,2.67
-Walk the dog for 40 mins,0.67
-Cook for just over 45 minutes,0.75
-Read for about 45 minutes,0.75
-Meditate for 3.83 hours,3.83
-Clean the house by Wednesday for 1 hour and 15 minutes,1.25
-Plan for 5 hours and 0 minutes,5.00
-Walk the dog by Tuesday at 5pm for roughly 4 hours and 10 minutes,4.17
-Study for around 2.83 hours,2.83
-Take a break for just over 270 minutes,4.50
-Exercise by the end of the day for 0 hour and 15 minutes,0.25
-Read for just over 240 minutes,4.00
-Clean for 2 hour and 50 minutes,2.83
-Meditate for around 1.83 hours,1.83
-Shop for 2 hour and 15 minutes,2.25
-Meditate for a total of 75 minutes,1.25
-Plan for 2 hours and 45 minutes,2.75
-Study for 80 minutes,1.33
-Clean the house by Wednesday for 240 minutes,4.00
-Walk the dog for around 4.33 hours,4.33
-Shop for 2.0 hours,2.00
-Walk the dog by Tuesday at 5pm for 250 minutes,4.17
-Walk the dog for about 60 minutes,1.00
-Walk the dog for 195 minutes,3.25
-Walk the dog by Tuesday at 5pm for roughly 4 hours and 15 minutes,4.25
-Study for just over 50 minutes,0.83
-Cook for 280 mins,4.67
-Exercise by the end of the day for just over 120 minutes,2.00
-Walk the dog for 170 mins,2.83
-Walk the dog by Tuesday at 5pm for 4 hour and 50 minutes,4.83
-Clean the house by Wednesday for 230 minutes,3.83
-Study for 100 mins,1.67
-Cook for a total of 180 minutes,3.00
-Walk the dog by Tuesday at 5pm for a total of 180 minutes,3.00
-Clean for roughly 3 hours and 50 minutes,3.83
-Shop for 3 hour and 0 minutes,3.00
-Clean for just over 80 minutes,1.33
-Walk the dog for about 165 minutes,2.75
-Write code before tomorrow for 2 hour and 15 minutes,2.25
-Shop for 40 minutes,0.67
-Clean for about 200 minutes,3.33
-Exercise by the end of the day for a total of 150 minutes,2.50
-Exercise by the end of the day for 4.0 hour,4.00
-Walk the dog by Tuesday at 5pm for around 3.83 hours,3.83
-Walk the dog for 130 mins,2.17
-Clean the house by Wednesday for 1.33 hour,1.33
-Walk the dog by Tuesday at 5pm for 4.33 hours,4.33
-Take a break for 1 hour and 45 minutes,1.75
-Clean for around 0.25 hours,0.25
-Exercise by the end of the day for just over 230 minutes,3.83
-Cook for roughly 3 hours and 0 minutes,3.00
-Clean the house by Wednesday for 195 minutes,3.25
-Cook for 1 hour and 30 minutes,1.50
-Meditate for a total of 20 minutes,0.33
-Exercise by the end of the day for 0 hour and 45 minutes,0.75
-Walk the dog for a total of 70 minutes,1.17
-Plan for 3.17 hour,3.17
-Clean for 3.75 hour,3.75
-Clean for 75 mins,1.25
-Plan for about 150 minutes,2.50
-Clean for about 165 minutes,2.75
-Write code before tomorrow for around 5.0 hours,5.00
-Take a break for a total of 220 minutes,3.67
-Plan for 0.5 hours,0.50
-Study for 2.83 hour,2.83
-Walk the dog for around 2.5 hours,2.50
-Clean the house by Wednesday for 0 hour and 20 minutes,0.33
-Write code before tomorrow for around 2.33 hours,2.33
-Meditate for 1.17 hours,1.17
-Exercise by the end of the day for roughly 2 hours and 40 minutes,2.67
-Take a break for 2.83 hour,2.83
-Take a break for roughly 2 hours and 20 minutes,2.33
-Walk the dog by Tuesday at 5pm for 80 mins,1.33
-Clean for 4 hours and 15 minutes,4.25
-Exercise by the end of the day for 1.0 hour,1.00
-Exercise by the end of the day for 4.0 hour,4.00
-Shop for roughly 4 hours and 10 minutes,4.17
-Walk the dog by Tuesday at 5pm for just over 75 minutes,1.25
-Meditate for a total of 210 minutes,3.50
-Read for 4 hour and 0 minutes,4.00
-Clean the house by Wednesday for 3.25 hour,3.25
-Plan for 200 minutes,3.33
-Write code before tomorrow for 15 minutes,0.25
-Clean for around 3.17 hours,3.17
-Write code before tomorrow for 4 hours and 15 minutes,4.25
-Clean for around 4.25 hours,4.25
-Exercise by the end of the day for just over 280 minutes,4.67
-Clean for 2.25 hours,2.25
-Study for 2 hours and 40 minutes,2.67
-Clean for 0.75 hour,0.75
-Walk the dog by Tuesday at 5pm for 0 hour and 40 minutes,0.67
-Write code before tomorrow for 4 hours and 50 minutes,4.83
-Shop for 0.5 hour,0.50
-Shop for 1 hour and 20 minutes,1.33
-Exercise by the end of the day for a total of 100 minutes,1.67
-Just Relax for a bit,empty
-Go to the gym,empty
-Take a nap,empty
-Read a book before tomorrow,empty
-What's the weather like?,empty
-My favorite color is blue,empty
-Watch a movie,empty
-Listen to music,empty
-Go to the park before 4pm,empty
-Call a friend before 3,empty
-Go for a walk,empty
-Meditate,empty
-Do some yoga,empty
+Read for 260 mins,4.33
 Cook a meal,empty
+Read for 170 mins,2.83
+Write code before tomorrow for around 2.17 hours,2.17
+Cook for 2.75 hour,2.75
+Take a break for a total of 285 minutes,4.75
+Meditate for a total of 110 minutes,1.83
+Read for 4.17 hour,4.17
+Walk the dog for 0 hour and 20 minutes,0.33
+Meditate for 0.5 hour,0.50
+Walk the dog by Tuesday at 5pm for around 4.83 hours,4.83
+Plan for a total of 15 minutes,0.25
+Take a break for around 1.0 hours,1.00
+Exercise by the end of the day for just over 170 minutes,2.83
+Clean the house by Wednesday for 1.67 hours,1.67
+Call a friend before 3,empty
+Write code before tomorrow for 1.25 hours,1.25
+Exercise by the end of the day for 3.83 hour,3.83
+Write code before tomorrow for 2.17 hours,2.17
+Take a break for a total of 300 minutes,5.00
+Walk the dog by Tuesday at 5pm for roughly 0 hours and 40 minutes,0.67
+Clean for 270 mins,4.50
+Exercise by the end of the day for roughly 1 hours and 30 minutes,1.50
+The train arrives in 15 minutes,empty
+Exercise by the end of the day for a total of 110 minutes,1.83
+Cook for a total of 170 minutes,2.83
+Walk the dog for roughly 1 hours and 50 minutes,1.83
+Study for about 255 minutes,4.25
+Plan for 140 minutes,2.33
+Clean for 230 mins,3.83
+Walk the dog for a total of 180 minutes,3.00
+Meditate for 3 hours and 0 minutes,3.00
+Write code before tomorrow for roughly 3 hours and 50 minutes,3.83
+Write code before tomorrow for about 250 minutes,4.17
+Write code before tomorrow for around 2.75 hours,2.75
+Write code before tomorrow for 250 minutes,4.17
+Walk the dog by Tuesday at 5pm for 2 hours and 50 minutes,2.83
+Read for about 90 minutes,1.50
+Clean the house by Wednesday for just over 220 minutes,3.67
+My favorite color is blue,empty
+Plan for 45 mins,0.75
+Study for 120 minutes,2.00
+Walk the dog by Tuesday at 5pm for just over 130 minutes,2.17
+Take a break for about 100 minutes,1.67
+Walk the dog for 4 hours and 45 minutes,4.75
+Shop for 5 hour and 0 minutes,5.00
+Clean the house by Wednesday for just over 45 minutes,0.75
+Walk the dog for about 80 minutes,1.33
+Take a break for about 80 minutes,1.33
+Walk the dog by Tuesday at 5pm for 300 mins,5.00
+Shop for 0.75 hours,0.75
+Take a break for roughly 0 hours and 15 minutes,0.25
+Exercise by the end of the day for a total of 225 minutes,3.75
+Take a break for 2 hours and 45 minutes,2.75
+Cook for a total of 270 minutes,4.50
+Cook for 2 hours and 20 minutes,2.33
+Meditate for a total of 140 minutes,2.33
+Write code before tomorrow for a total of 80 minutes,1.33
+Take a break for about 210 minutes,3.50
+Clean the house by Wednesday for 150 mins,2.50
+Meditate for about 130 minutes,2.17
+Exercise by the end of the day for two and a half hours,2.50
+Shop for roughly 1 hours and 40 minutes,1.67
+Plan for a total of 105 minutes,1.75
+Walk the dog by Tuesday at 5pm for 1 hours and 50 minutes,1.83
+Clean for 1 hours and 0 minutes,1.00
+Clean the house by Wednesday for roughly 0 hours and 40 minutes,0.67
+Write code before tomorrow for 260 mins,4.33
+Read for 140 mins,2.33
+Clean for one and three quarters hours,1.75
+Shop for 4.17 hour,4.17
+Exercise by the end of the day for roughly 4 hours and 45 minutes,4.75
+Shop for about 15 minutes,0.25
+Meditate for a total of 260 minutes,4.33
+Plan for 0.33 hour,0.33
+Read for 1.25 hour,1.25
+Clean the house by Wednesday for 4 hour and 20 minutes,4.33
+Clean the house by Wednesday for 1.5 hour,1.50
+Clean the house by Wednesday for 2 hours and 0 minutes,2.00
+Clean the house by Wednesday for 0 hours and 40 minutes,0.67
+Write code before tomorrow for an hour and a half,1.50
+Write code before tomorrow for 255 mins,4.25
+Walk the dog for 4 hour and 20 minutes,4.33
+Cook for 4.33 hour,4.33
+Meditate for 4.33 hour,4.33
+Walk the dog by Tuesday at 5pm for 3 hour and 45 minutes,3.75
+Walk the dog for 3 hours and 50 minutes,3.83
+Exercise by the end of the day for 240 mins,4.00
+Take a break for a total of 110 minutes,1.83
+Shop for a total of 200 minutes,3.33
+Exercise by the end of the day for 100 minutes,1.67
+Shop for one and a quarter hours,1.25
+Cook for just over 225 minutes,3.75
+Exercise by the end of the day for 1.67 hours,1.67
+Walk the dog by Tuesday at 5pm for roughly 3 hours and 10 minutes,3.17
+Walk the dog for around 2.0 hours,2.00
+Cook for 285 minutes,4.75
+Take a break for 4 hour and 40 minutes,4.67
+Shop for 3 hours and 45 minutes,3.75
+Go to the park before 4pm,empty
+Meditate for about 160 minutes,2.67
+Go to the party at 8pm,empty
+Walk the dog by Tuesday at 5pm for a total of 10 minutes,0.17
+Exercise by the end of the day for 1.33 hours,1.33
+Shop for around 1.83 hours,1.83
+Write code before tomorrow for around 4.5 hours,4.50
+Clean the house by Wednesday for 75 mins,1.25
+Study for around 4.67 hours,4.67
+Write code before tomorrow for 3.75 hours,3.75
+Plan for 160 mins,2.67
+Take a break for 3.83 hours,3.83
+Cook for 4.75 hour,4.75
+Write code before tomorrow for about 135 minutes,2.25
+Read for 2.83 hour,2.83
+Walk the dog by Tuesday at 5pm for 2 hour and 50 minutes,2.83
+Clean for 2 hour and 40 minutes,2.67
+Cook for about 10 minutes,0.17
+I have a 1-hour meeting,empty
+Cook for 3 hours and 45 minutes,3.75
+Read for 160 minutes,2.67
+Shop for 70 minutes,1.17
+Write code before tomorrow for 2.75 hour,2.75
+Write code before tomorrow for 75 mins,1.25
+Clean the house by Wednesday for around 4.5 hours,4.50
+Cook for roughly 4 hours and 40 minutes,4.67
+Read for roughly 2 hours and 30 minutes,2.50
+Walk the dog by Tuesday at 5pm for around 1.5 hours,1.50
+Take a break for a total of 285 minutes,4.75
+Clean for 15 minutes,0.25
+Write code before tomorrow for 1.33 hour,1.33
+Shop for 0.75 hours,0.75
+Clean the house by Wednesday for three quarters of an hour,0.75
+Shop for 1 hours and 15 minutes,1.25
+What's the weather like?,empty
+Exercise by the end of the day for 3.83 hours,3.83
+I ran 5 kilometers today,empty
+Read for around 1.75 hours,1.75
+Take a break for a total of 160 minutes,2.67
+Clean the house by Wednesday for 3 hour and 0 minutes,3.00
+Meditate for just over 90 minutes,1.50
+Study for 285 mins,4.75
+Read for 150 minutes,2.50
+Cook for 2 hour and 40 minutes,2.67
+My phone battery is at 50 percent,empty
+Take a break for 130 mins,2.17
+Read for about 195 minutes,3.25
+Meditate for 2 hour and 20 minutes,2.33
+Study for roughly 3 hours and 20 minutes,3.33
+Do some yoga,empty
+Exercise by the end of the day for 75 mins,1.25
+Read for 2.5 hours,2.50
+Shop for 110 mins,1.83
+Exercise by the end of the day for just over 80 minutes,1.33
+Walk the dog for roughly 3 hours and 20 minutes,3.33
+Meditate for 1.67 hour,1.67
+Write code before tomorrow for a total of 70 minutes,1.17
+Cook for 1 hours and 30 minutes,1.50
+Plan for 1 hour and 40 minutes,1.67
+Meditate for 1.5 hour,1.50
+Just Relax for a bit,empty
+Read for a total of 110 minutes,1.83
+Exercise by the end of the day for around 4.5 hours,4.50
+Walk the dog by Tuesday at 5pm for 4 hour and 40 minutes,4.67
+Write code before tomorrow for a total of 70 minutes,1.17
+Clean for 0 hour and 20 minutes,0.33
+Walk the dog for just over 10 minutes,0.17
+Walk the dog for a total of 75 minutes,1.25
+Plan for 0 hour and 15 minutes,0.25
+Clean the house by Wednesday for 3.5 hours,3.50
+Shop for 3.25 hours,3.25
+Walk the dog by Tuesday at 5pm for about 210 minutes,3.50
+Shop for a quarter hour,0.25
+Walk the dog for 2 hours and 10 minutes,2.17
+Exercise by the end of the day for 4.67 hour,4.67
+Meditate for 75 mins,1.25
+Shop for roughly 4 hours and 30 minutes,4.50
+Meditate for about 270 minutes,4.50
+Clean for 10 mins,0.17
+Cook for 0 hour and 50 minutes,0.83
+Walk the dog by Tuesday at 5pm for just over 240 minutes,4.00
+The meeting is at 3pm,empty
+Walk the dog for 130 mins,2.17
+Exercise by the end of the day for 2 hours and 45 minutes,2.75
+Take a break for 100 minutes,1.67
+Cook for 180 minutes,3.00
+Walk the dog by Tuesday at 5pm for 1 hours and 45 minutes,1.75
+Meditate for around 1.67 hours,1.67
+Write code before tomorrow for roughly 4 hours and 30 minutes,4.50
+Plan for 4.33 hour,4.33
+Walk the dog for roughly 2 hours and 0 minutes,2.00
+Take a break for 4 hours and 0 minutes,4.00
+Watch a movie,empty
+Meditate for 255 minutes,4.25
+Clean the house by Wednesday for 195 minutes,3.25
+Study for 50 minutes,0.83
+Walk the dog for 0.75 hours,0.75
+Cook for 1 hours and 50 minutes,1.83
+Walk the dog by Tuesday at 5pm for 2 hours and 15 minutes,2.25
+Study for just over 255 minutes,4.25
+Take a break for 0 hour and 15 minutes,0.25
+Write code before tomorrow for 3.25 hour,3.25
+Meditate for around 4.25 hours,4.25
+Walk the dog for about 230 minutes,3.83
+Walk the dog for 50 minutes,0.83
+Write code before tomorrow for around 3.75 hours,3.75
+Take a break for 195 mins,3.25
+Study for 2.25 hour,2.25
+Clean the house by Wednesday for 0 hours and 50 minutes,0.83
+Walk the dog for roughly 2 hours and 40 minutes,2.67
+Write code before tomorrow for a total of 60 minutes,1.00
+Walk the dog for 2 hour and 40 minutes,2.67
+Walk the dog for roughly 0 hours and 50 minutes,0.83
+Read for a total of 50 minutes,0.83
+Take a break for roughly 2 hours and 45 minutes,2.75
+Clean for roughly 4 hours and 10 minutes,4.17
+Walk the dog by Tuesday at 5pm for about 150 minutes,2.50
+Write code before tomorrow for 3 hours and 0 minutes,3.00
+Meditate for 150 minutes,2.50
+Clean for roughly 0 hours and 30 minutes,0.50
+Exercise by the end of the day for around 2.17 hours,2.17
+Read for 280 mins,4.67
+Walk the dog by Tuesday at 5pm for roughly 2 hours and 50 minutes,2.83
+Walk the dog by Tuesday at 5pm for just over 160 minutes,2.67
+Read for about 250 minutes,4.17
+Meditate for 4 hour and 0 minutes,4.00
+Clean for roughly 3 hours and 30 minutes,3.50
+Study for 4 hour and 15 minutes,4.25
+Study for just over 240 minutes,4.00
+Plan for 4.0 hours,4.00
+Shop for 2.67 hours,2.67
+Walk the dog for 4 hour and 30 minutes,4.50
+Go for a walk,empty
+Read for 50 mins,0.83
+Write code before tomorrow for 2 hour and 40 minutes,2.67
+Exercise by the end of the day for 1.75 hours,1.75
+Read for 200 minutes,3.33
+Exercise by the end of the day for just over 250 minutes,4.17
+Cook for about 150 minutes,2.50
+Plan for 3.33 hours,3.33
+Walk the dog by Tuesday at 5pm for 3.67 hour,3.67
+Listen to music,empty
+Read for 0 hour and 30 minutes,0.50
+Study for a total of 160 minutes,2.67
+Meditate for 4 hour and 30 minutes,4.50
+Take a break for around 3.5 hours,3.50
+Write code before tomorrow for 4 hours and 10 minutes,4.17
+Clean for about 110 minutes,1.83
+Meditate for roughly 0 hours and 30 minutes,0.50
+Clean the house by Wednesday for 3 hour and 30 minutes,3.50
+Take a break for 4 hour and 40 minutes,4.67
+Write code before tomorrow for around 2.33 hours,2.33
+Study for roughly 0 hours and 45 minutes,0.75
+Clean the house by Wednesday for around 4.33 hours,4.33
+Study for around 0.83 hours,0.83
+Exercise by the end of the day for 2.25 hour,2.25
+Clean the house by Wednesday for 4 hour and 45 minutes,4.75
+Take a break for about 290 minutes,4.83
+Clean the house by Wednesday for about 180 minutes,3.00
+Walk the dog for 0 hour and 10 minutes,0.17
+Write code before tomorrow for 3 hour and 30 minutes,3.50
+Shop for 4 hour and 15 minutes,4.25
+Walk the dog by Tuesday at 5pm for 130 mins,2.17
+Write code before tomorrow for 0 hour and 40 minutes,0.67
+Plan for 2.5 hours,2.50
+Write code before tomorrow for just over 135 minutes,2.25
+I have 2 apples,empty
+Study for a total of 130 minutes,2.17
+Clean for 60 minutes,1.00
+Shop for 2 hour and 50 minutes,2.83
+Read for 4.17 hour,4.17
+Clean for 70 mins,1.17
+Study for a total of 40 minutes,0.67
+Study for about 80 minutes,1.33
+Shop for 110 mins,1.83
+Write code before tomorrow for roughly 0 hours and 15 minutes,0.25
+Clean for 4.33 hour,4.33
+Meditate for 3.67 hours,3.67
+Write code before tomorrow for roughly 2 hours and 10 minutes,2.17
+Plan for a total of 45 minutes,0.75
+The temperature is 20 degrees Celsius,empty
+Plan for about 195 minutes,3.25
+Meditate for around 4.0 hours,4.00
+Clean the house by Wednesday for roughly 2 hours and 40 minutes,2.67
+Meditate,empty
+Read for just over 150 minutes,2.50
+Meditate for 4.83 hours,4.83
+Shop for roughly 0 hours and 30 minutes,0.50
+Meditate for 1.75 hours,1.75
+Cook for just over 195 minutes,3.25
+Exercise by the end of the day for about 195 minutes,3.25
+Write code before tomorrow for about 110 minutes,1.83
+Shop for 3 hours and 20 minutes,3.33
+I need 10 minutes to finish this,empty
+Take a break for 5 hours and 0 minutes,5.00
+Clean the house by Wednesday for a total of 75 minutes,1.25
+Clean the house by Wednesday for 1 hour and 40 minutes,1.67
+Read for 4 hour and 20 minutes,4.33
+Plan for a total of 105 minutes,1.75
+Read for 4.5 hour,4.50
+Walk the dog for 75 minutes,1.25
+Clean the house by Wednesday for 4.83 hours,4.83
+Cook for around 2.0 hours,2.00
+Clean for roughly 0 hours and 15 minutes,0.25
+Shop for roughly 0 hours and 15 minutes,0.25
+Cook for 250 minutes,4.17
+Clean the house by Wednesday for 1 hour and 40 minutes,1.67
+Study for 100 minutes,1.67
+Cook for 4.83 hours,4.83
+Cook for 190 mins,3.17
+Read for 1.33 hours,1.33
+Take a break for just over 230 minutes,3.83
+Take a nap,empty
+Exercise by the end of the day for two and a quarter hours,2.25
+Go to the gym,empty
+Take a break for around 0.25 hours,0.25
+Plan for about 10 minutes,0.17
+Walk the dog by Tuesday at 5pm for 4 hours and 20 minutes,4.33
+Read for 1 hours and 50 minutes,1.83
+Walk the dog for 240 minutes,4.00
+Read a book before tomorrow,empty
+Take a break for around 4.5 hours,4.50
+Walk the dog by Tuesday at 5pm for around 4.33 hours,4.33
+Shop for 75 minutes,1.25
+Exercise by the end of the day for half an hour,0.50
+Cook for an hour,1.00
+Plan for 4 hour and 20 minutes,4.33
+Study for about 80 minutes,1.33
+Meditate for about 80 minutes,1.33
+Write code before tomorrow for 3 hour and 30 minutes,3.50
+Walk the dog by Tuesday at 5pm for a total of 105 minutes,1.75
+Walk the dog by Tuesday at 5pm for 4.17 hour,4.17
+Meditate for 2 hour and 20 minutes,2.33

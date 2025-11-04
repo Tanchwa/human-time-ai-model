@@ -80,6 +80,7 @@ def generate_dataset(num_samples=200):
         {"input": "Take a nap", "output": "empty"},
         {"input": "Read a book before tomorrow", "output": "empty"},
         {"input": "What's the weather like?", "output": "empty"},
+        {"input": "Go to the party at 8pm", "output": "empty"},
         {"input": "My favorite color is blue", "output": "empty"},
         {"input": "Watch a movie", "output": "empty"},
         {"input": "Listen to music", "output": "empty"},
@@ -91,6 +92,19 @@ def generate_dataset(num_samples=200):
         {"input": "Cook a meal", "output": "empty"},
     ]
 
+    # Add some edge cases for irrelevant phrases with numbers
+    data += [
+        {"input": "I have 2 apples", "output": "empty"},
+        {"input": "The meeting is at 3pm", "output": "empty"},
+        {"input": "My phone battery is at 50 percent", "output": "empty"},
+        {"input": "I ran 5 kilometers today", "output": "empty"},
+        {"input": "The temperature is 20 degrees Celsius", "output": "empty"},
+        {"input": "I need 10 minutes to finish this", "output": "empty"},
+        {"input": "The train arrives in 15 minutes", "output": "empty"},
+        {"input": "I have a 1-hour meeting", "output": "empty"}
+    ]
+
+    random.shuffle(data)
     return data
 
 def write_jsonl(data, path="spoken_time_data.jsonl"):
